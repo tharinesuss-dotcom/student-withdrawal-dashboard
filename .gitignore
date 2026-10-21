@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+lecturer_intervention_dashboard.csv
+lecturer_dashboard_alerts_only.csv
+*student*private*.csv
